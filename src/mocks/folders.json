@@ -1,0 +1,57 @@
+[
+  {
+    "id": "4217f2e5-9048-4c82-bf45-5be5b067f0cc",
+    "name": "I-A-1",
+    "parentFolderId": "bbe81687-a625-493b-8ea5-f9634489b24a"
+  },
+  {
+    "id": "beb76771-748b-4481-a0fa-4beca837b21d",
+    "name": "II-A-2",
+    "parentFolderId": "0a1b239d-915c-4506-8717-11b370c3b234"
+  },
+  {
+    "id": "22c27f00-246c-4638-a67d-755b0b3bd88f",
+    "name": "II-A",
+    "parentFolderId": "0a1b239d-915c-4506-8717-11b370c3b234"
+  },
+  {
+    "id": "e8966051-6448-4a59-9df6-fafa50e589fd",
+    "name": "I-B",
+    "parentFolderId": "75f1a23c-80ad-431b-bb33-887f5f3be6ce"
+  },
+  {
+    "id": "679e9933-81f6-483c-9637-d8155821492b",
+    "name": "II-A-3",
+    "parentFolderId": "0a1b239d-915c-4506-8717-11b370c3b234"
+  },
+  {
+    "id": "0a1b239d-915c-4506-8717-11b370c3b234",
+    "name": "II",
+    "parentFolderId": null
+  },
+  {
+    "id": "5a2fe5ef-4fe1-48b8-8ac9-99aa5a584fa1",
+    "name": "II-A-1",
+    "parentFolderId": "0a1b239d-915c-4506-8717-11b370c3b234"
+  },
+  {
+    "id": "bd854ecf-984b-48a7-8571-07df0a96bf60",
+    "name": "II-A",
+    "parenFolderId": "0a1b239d-915c-4506-8717-11b370c3b234"
+  },
+  {
+    "id": "96053b13-af83-45db-8eed-04ab77b34c4e",
+    "name": "I-A-2",
+    "parentFolderId": "75f1a23c-80ad-431b-bb33-887f5f3be6ce"
+  },
+  {
+    "id": "bbe81687-a625-493b-8ea5-f9634489b24a",
+    "name": "I-A",
+    "parentFolderId": "75f1a23c-80ad-431b-bb33-887f5f3be6ce"
+  },
+  {
+    "id": "75f1a23c-80ad-431b-bb33-887f5f3be6ce",
+    "name": "I",
+    "parentFolderId": null
+  }
+]

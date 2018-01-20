@@ -1,0 +1,14 @@
+.form {
+	border: 1px solid #cccccc;
+	background-color: #eeeeee;
+	padding: 0.25rem 0.5rem;
+}
+
+.form label {
+	display: flex;
+	justify-content: space-between;
+}
+
+.form label > * {
+	flex: 1;
+}
